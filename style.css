@@ -240,7 +240,7 @@ main {
 @media (max-width: 767px) {
   .top {
     height: 668px;
-    background: url(../img/mv.png) no-repeat center center/cover;
+    background: url(https://github.com/sanaemamamoo/LP1/blob/main/mv.png?raw=true) no-repeat center center/cover;
   }
 }
 
@@ -360,7 +360,7 @@ main {
 .news-item::after {
   content: "";
   position: absolute;
-  background: url(../img/news-arrow.png) no-repeat center center/15px 25px;
+  background: url(https://github.com/sanaemamamoo/LP1/blob/main/news-arrow.png?raw=true) no-repeat center center/15px 25px;
   top: 38%;
   right: 0;
   width: 30px;
@@ -918,7 +918,7 @@ td {
 /* qa
 ------------------------------------------------------------*/
 .qa {
-  background: url(../img/qa-bg.png) center top/cover;
+  background: url(https://github.com/sanaemamamoo/LP1/blob/main/qa-bg.png?raw=true) center top/cover;
   padding-bottom: 90px;
   margin-top: 122px;
 }
@@ -1175,7 +1175,7 @@ iframe {
 /* contact
 ------------------------------------------------------------*/
 .contact {
-  background: url(../img/contact-bg.png) center center/cover;
+  background: url(https://github.com/sanaemamamoo/LP1/blob/main/contact-bg.png?raw=true) center center/cover;
   padding: 59px;
   margin-top: -3px;
 }
@@ -1214,7 +1214,7 @@ iframe {
 }
 
 .contact-header {
-  background: url(../img/contact1.png) center center/cover;
+  background: url(https://github.com/sanaemamamoo/LP1/blob/main/contact1.png?raw=true) center center/cover;
   padding: 60px 220px;
 }
 
@@ -1388,7 +1388,7 @@ option {
 select {
   box-shadow: none;
   border: 1px solid #707070;
-  background: #fff url(../img/select-arrow2.png) no-repeat right 12px center/17px 14px;
+  background: #fff url(https://github.com/sanaemamamoo/LP1/blob/main/select-arrow2.png?raw=true) no-repeat right 12px center/17px 14px;
   padding: 12px 16px;
   appearance: none;
   border-radius: 0;
@@ -1447,7 +1447,7 @@ select {
   top: 50%;
   transform: translateY(-50%);
   left: 2px;
-  background: transparent url(../img/checkmark.png) no-repeat center center/contain;
+  background: transparent url(https://github.com/sanaemamamoo/LP1/blob/main/checkmark.png?raw=true) no-repeat center center/contain;
   display: none;
 }
 
@@ -1708,7 +1708,7 @@ footer {
   transform: translateY(-50%);
   width: 8px;
   height: 11px;
-  background: url(../img/arrow-next@2x.png) no-repeat center center/contain;
+  background: url(https://github.com/sanaemamamoo/LP1/blob/main/news-arrow@2x.png?raw=true) no-repeat center center/contain;
 }
 
 .drawer-background {
